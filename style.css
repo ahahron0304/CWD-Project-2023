@@ -1,0 +1,86 @@
+h1, h2, h3, h4 {
+    font-weight: 200;
+}
+
+.about-materialize {
+    font-weight: 200;
+}
+
+.side-navs {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.left-panel {
+    border-right: 0.1px solid rgba(128, 128, 128, 0.404);
+}
+
+.search-wrapper {
+    position: relative;
+}
+
+#search {
+    border-top: 0.1px solid rgba(128, 128, 128, 0.39);
+}
+
+.fa-magnifying-glass {
+    position: absolute;
+    right: 10px;
+    top: 45%;
+    transform: translateY(-50%);
+}
+
+.mini-ver {
+    font-weight: 100;
+}
+
+.stock-link-ad2 {
+    font-weight: 300;
+    font-size: 13px;
+}
+
+.img-container {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    justify-content: center;
+    margin-left: 80px;
+    border: 0.1px solid rgba(128, 128, 128, 0.39);
+    padding: 16px 0 16px 0;
+}
+
+.image-wrapper {
+    flex: 0 0 auto;
+    margin-right: 10px;
+}
+
+.text-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.stock-link-smallest {
+    font-weight: 300;
+    font-size: 10px;
+    margin-left: 70px;
+}
+
+.adobe-stock {
+    position: sticky;
+    top: 0;
+}
+
+.stock-link {
+    font-weight: 120;
+    font-size: 13px;
+}
+
+.stock-link-small {
+    font-weight: 120;
+    font-size: 10px;
+    margin-left: 8px;
+}
+
+.stock-img {
+    margin: 20px 10px 20px;
+}
